@@ -1,10 +1,10 @@
 # ProyectoFinal_GearsOfEvil
   Gears Of Evil
  
-  Proyecto final del Curso Unity básico 2D y 3D de Desafío Latam<br>
-  Programado por: José Leonardo Flores<br>
-  Arte y sonido: descargado de Internet<br>
+  Final Project of the Basic 2D and 3D Unity Course from Desafío Latam<br>
+  Programmed by: José Leonardo Flores<br>
+  Art and sound: downloaded from the Internet<br>
   
-  - Elegido como el mejor proyecto final del curso.
-  - Tiempo de desarrollo: 35 horas aprox.  
-  - Puedes jugarlo en: https://joseleonardo.itch.io/gearsofevil
+  - Chosen as the best final project of the course.
+  - Development time: approximately 35 hours.
+  - You can play it on: https://joseleonardo.itch.io/gearsofevil
